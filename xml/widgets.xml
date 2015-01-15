@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<widgets>
+<widget>
+<name>Hacker News</name>
+<Url>http://news.ycombinator.com/rss</Url>
+<Tag>item</Tag>
+<Class>vhp_feed_default</Class>
+</widget>
+<widget>
+<name>One Thing Well</name>
+<Url>http://onethingwell.org/rss</Url>
+</widget>
+<widget>
+<name>Coding Horror</name>
+<Url>http://feeds.feedburner.com/codinghorror</Url>
+</widget>
+<widget>
+<name>Penny Arcade</name>
+<Url>http://penny-arcade.com/feed</Url>
+</widget>
+<widget>
+<name>A List Apart</name>
+<Url>http://www.alistapart.com/site/rss</Url>
+</widget>
+<widget>
+<name>XKCD</name>
+<Url>http://xkcd.com/rss.xml</Url>
+</widget>
+<widget>
+<name>Toronto Weather</name>
+<Url>http://weather.yahooapis.com/forecastrss?p=CAXX0504</Url>
+<Class>vhp_feed_widget</Class>
+</widget>
+</widgets>
